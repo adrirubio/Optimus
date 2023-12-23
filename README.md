@@ -1,2 +1,2 @@
 # optimus
-It is a virtual assistant!!
+It's a virtual assistant!!
