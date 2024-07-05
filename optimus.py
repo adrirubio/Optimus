@@ -13,9 +13,6 @@ import random
 import os
 from pywttr import Wttr
 
-
-
-
 def choose_song():
     dirs = [r'/home/adrian/Music/Queen_-_Forever_Deluxe_Edition_2014',
             r'/home/adrian/Music/Queen_1989-2011_The_miracle_remastered/cd_1',
